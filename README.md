@@ -6,7 +6,7 @@ This project features an Express.js server implementing CRUD operations on a Mon
 
 - **CRUD Operations:** Execute Create, Read, Update, and Delete operations on user data stored in MongoDB Atlas.
   
-- **Middleware for URL Decoding:** Integrated middleware ensures proper URL decoding for optimized data handling and secure communication.
+- **Middleware for URL Decoding:** Integrated middleware ensures proper URL decoding for optimized data handling and secure communication. Stores a log of the requests made from the client.
 
 ## Technologies Used
 
@@ -19,17 +19,22 @@ This project features an Express.js server implementing CRUD operations on a Mon
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
+   
+```bash
    git clone <repository-url>
+```
 2. **To install the necessary dependencies, run the following command:**
 
 ```bash
 npm init
-  ```
+```
+
 3. **To  start the server run the following command:**
- ```bash
+```bash
 npm start
-  ```
+```
+
+
 ## Directory Structure
 
 This project strictly adheres to an MVC (Model-View-Controller) architecture, organized as follows:
