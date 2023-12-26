@@ -45,6 +45,9 @@ This project strictly adheres to an MVC (Model-View-Controller) architecture, or
 
 - `routes`: Defines and manages the API endpoints, outlining the routes and functionalities associated with user data operations.
 
+- `models`: Defines the user schema and data architecture.
+
+
 
 
 
