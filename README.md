@@ -6,7 +6,7 @@ This project features an Express.js server implementing CRUD operations on a Mon
 
 - **CRUD Operations:** Execute Create, Read, Update, and Delete operations on user data stored in MongoDB Atlas.
   
-- **Middleware for URL Decoding:** Integrated middleware ensures proper URL decoding for optimized data handling and secure communication. Stores a log of the requests made from the client.
+- **Middleware for URL Decoding:** Integrated middleware ensures proper URL decoding for optimized data handling and secure communication. Generates a time stamp for every request made from the client and appends it to a log document.
 
 ## Technologies Used
 
