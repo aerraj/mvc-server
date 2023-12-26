@@ -21,14 +21,12 @@ This project features an Express.js server implementing CRUD operations on a Mon
 1. **Clone the Repository:**
    ```bash
    git clone <repository-url>
-## Install Dependencies
-
-2.To install the necessary dependencies, run the following command:
+2. **To install the necessary dependencies, run the following command:**
 
 ```bash
 npm init
   ```
-3.To  start the server run the following command:
+3. **To  start the server run the following command:**
  ```bash
 npm start
   ```
